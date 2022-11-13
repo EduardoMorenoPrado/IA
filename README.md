@@ -1,2 +1,2 @@
 Hello 👋
-These are my first IA programs programmed by me! 
+These are my very first IA programs programmed by me! 
