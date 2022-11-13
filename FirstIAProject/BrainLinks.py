@@ -16,7 +16,7 @@ model.compile(
 print ("start")
 historial= model.fit(celsius,fahremheit, epochs=1000, verbose=False)
 print ("done")
-  # dense layers since all neurons can connect all neurons, the firs 
+
 import matplotlib.pyplot as plt
 plt.ylabel("loss magnitude")
 plt.plot(historial.history["loss"])
