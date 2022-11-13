@@ -20,6 +20,6 @@ print ("done")
 import matplotlib.pyplot as plt
 plt.ylabel("loss magnitude")
 plt.plot(historial.history["loss"])
-#plt.show() #with 500 is ok
+#plt.show() 
 result= model.predict([100])
 print (result)
